@@ -31,13 +31,12 @@ namespace Bank.Domain.Tests.Features
             }            
         }
 
-        // [Given("con saldo (.*)")]
-        // public void YConSaldo(decimal monto)
-        // {
-        //     CuandoYoDeposito(monto);
-        // }
-
         [Given("con saldo (.*)")]
+        public void YConSaldo(decimal monto)
+        {
+            CuandoYoDeposito(monto);
+        }
+
         [When("deposito (.*)")]
         public void CuandoYoDeposito(decimal monto)
         {
