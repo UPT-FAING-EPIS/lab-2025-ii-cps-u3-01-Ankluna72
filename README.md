@@ -3,7 +3,7 @@
 # SESION DE LABORATORIO N° 01: GESTION AUTOMATIZADA DE PRUEBAS CON GITHUB
 
 ## OBJETIVOS
-  * Desarrollar la automatización de la gestión de pruebas de una aplicación utilizando Github Actions.
+  * Desarrollar la automatización de la gestión de pruebas de una aplicación utilizando Github Actions
 
 ## REQUERIMIENTOS
   * Conocimientos: 
